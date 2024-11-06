@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working at CWI Software
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Compose and Flutter
 - 💬 Ask me about Android and Kotlin
 - 📫 How to reach me: rafakeil55@gmail.com
 
